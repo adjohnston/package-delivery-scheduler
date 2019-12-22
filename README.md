@@ -3,10 +3,10 @@
 This is Guillaume's package delivery scheduler:
 a simple 1-pager webpage for recipients to see what time their package is scheduled to arrive.
 
-• The Map section uses Google Maps.
-• the marker is shown at the correct address.
-• Changing delivery time and subscribing to notifications are just mock ups for now.
-• The user is able to add notes to the delivery.
+- The Map section uses Google Maps.
+- the marker is shown at the correct address.
+- Changing delivery time and subscribing to notifications are just mock ups for now.
+- The user is able to add notes to the delivery.
 
 How to run it locally:
 ----
