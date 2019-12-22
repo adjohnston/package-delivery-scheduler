@@ -1,7 +1,10 @@
 import React from "react";
 
 const DeliveryFooter = () => (
-  <div className="delivery-footer">delivery footer</div>
+  <div id="delivery-footer">
+    <div>Address chooser</div>
+    <div>Get notified instantly</div>
+  </div>
 );
 
 export default DeliveryFooter;

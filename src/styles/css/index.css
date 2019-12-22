@@ -6,16 +6,16 @@ body {
   font-family: sans-serif;
 }
 
-.delivery-header {
+#delivery-header {
   background: red;
-  width: 100px;
-  height: 100px;
+  width: 300px;
+  height: 200px;
 }
 
-.delivery-footer {
+#delivery-footer {
   background: blue;
-  width: 100px;
-  height: 100px;
+  width: 300px;
+  height: 200px;
 }
 
 /*# sourceMappingURL=index.css.map */
