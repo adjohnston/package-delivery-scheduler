@@ -1,9 +1,12 @@
 import React from "react";
 
+import DeliveryAddress from "./delivery-address";
+import DeliveryNotification from "./delivery-notification";
+
 const DeliveryFooter = () => (
   <div id="delivery-footer">
-    <div>Address chooser</div>
-    <div>Get notified instantly</div>
+    <DeliveryAddress />
+    <DeliveryNotification />
   </div>
 );
 

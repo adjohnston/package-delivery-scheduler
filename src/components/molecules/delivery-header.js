@@ -1,13 +1,14 @@
 import React from "react";
 
+import DeliveryInformation from "./delivery-information";
+import DeliveryRescheduler from "./delivery-rescheduler";
+import DeliveryNotes from "./delivery-notes";
+
 const DeliveryHeader = () => (
   <div id="delivery-header">
-    <div>
-      <div>COMPANY LOGO IMAGE</div>
-      <div>Out for delivery time</div>
-    </div>
-    <div>Not in? Find a better time</div>
-    <div>Add delivery note</div>
+    <DeliveryInformation />
+    <DeliveryRescheduler />
+    <DeliveryNotes />
   </div>
 );
 
